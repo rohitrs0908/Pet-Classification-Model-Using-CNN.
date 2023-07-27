@@ -20,7 +20,6 @@ Begin by extracting ipynb file and the data in the same folder. The CNN model (c
 ● Dropout layer with dropout probability 0.4 
 Predict the class by doing a softmax on the output of the dropout layers. 
 This should be followed by training and evaluation: 
-1 | Page ©Simplilearn. All rights reserved 
 ● For the training step, define the loss function and minimize it 
 ● For the evaluation step, calculate the accuracy 
 Run the program for 100, 200, and 300 iterations, respectively. Follow this by a report on the final accuracy and loss on the evaluation data. 
